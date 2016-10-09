@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".OptionContext"></activity>
+        <activity android:name=".OptionContext" />
+        <activity android:name=".IntentFirst"></activity>
     </application>
 
 </manifest>
