@@ -16,7 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".OptionContext" />
-        <activity android:name=".IntentFirst"></activity>
+        <activity android:name=".IntentFirst" />
+        <activity android:name=".IntentSecond" />
+        <activity android:name=".IntentSecondExchange"></activity>
     </application>
 
 </manifest>
